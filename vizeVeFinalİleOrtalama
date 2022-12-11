@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner giriş=new Scanner(System.in);
+
+        int vize;
+        int fınal;
+        double ortalama;
+
+        System.out.println("LÜTFEN VİZE DEĞERİNİ GİRİNİZ");
+        vize=giriş.nextInt();
+
+        System.out.println("LÜTFEN FİNAL DEĞERİNİ GİRİNİZ");
+        fınal=giriş.nextInt();
+
+        ortalama=vize*(0.4)+fınal*(0.6);
+        System.out.println(ortalama);
+
+
+    }
+}
+
