@@ -1,0 +1,17 @@
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner giriş=new Scanner(System.in);
+        int girilenSayi;
+        System.out.print("LÜTFEN BİR SAYI GİRİNİZ = ");
+        girilenSayi=giriş.nextInt();
+        for(int i=1; i<girilenSayi+1; i++){
+            if(girilenSayi%i==0){
+                System.out.println(i);
+            }
+        }
+
+    }
+}
+
