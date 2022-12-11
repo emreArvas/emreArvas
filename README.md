@@ -1,17 +1,18 @@
-### Hi there 👋
+# Youtube Video 
 
-<!--
-**emreArvas/emreArvas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Video](https://www.youtube.com/watch?v=8qJbmYoYh5s&t=82s)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-https://www.youtube.com/watch?v=8qJbmYoYh5s&t=73s
+# Sorular
+  
+     * 1-Fibonacci Sayi Dizisi
+     * 2-Hesap Makinesi
+     * 3-Faktöriyel Hesabı
+     * 4-Girilen Sayiya Kadar Olan Çift Sayiları Bulma
+     * 5-Daire Çevresi ve Alanı
+     * 6-Girilen Sayinin Tam Bölenlerini Bulma
+     * 7-Kdvli Fiyat Hesabı
+     * 8-Üsli Sayi Hesabı
+     * 9-Vize ve Final Ortalama Hesabı
+     * 10-Yıldızlarla Üçgen Çizdirme
+     *
